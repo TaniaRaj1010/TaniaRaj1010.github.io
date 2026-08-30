@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: TaniaRaj1010 homepage
 description: Bookmark this to keep an eye on my project updates!
+
+nav:
+  - Home: index.md
+  - Projects:
+    - "1. project1": "project1.md"
+    - "2. project2": "project2.md"
