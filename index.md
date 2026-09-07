@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: TaniaRaj1010.github.io
+description: Current
 ---
 
 ## **MD Projects**
