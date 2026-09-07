@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TaniaRaj1010.github.io
-description: Current
+description: Hello! Currently under construction. ∠( ᐛ 」∠)∟
 ---
 
 ## **MD Projects**
