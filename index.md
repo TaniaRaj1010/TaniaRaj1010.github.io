@@ -9,11 +9,16 @@ description: Hello! I'm currently a biochemistry PhD candidate. My thesis work i
 * [Link to another page](./project1.html)
 * [Link to another page](./project1.html)
 
-## **CS Projects**
+## **MPI C Projects**
 * [Link to another page](./project1.html)
 * [Link to another page](./project1.html)
 * [Link to another page](./project1.html)
 
+## **CUDA C Projects**
+* [Link to another page](./project1.html)
+* [Link to another page](./project1.html)
+* [Link to another page](./project1.html)
+  
 ## **Tutorials**
 * [Link to another page](./project1.html)
 * [Link to another page](./project1.html)
