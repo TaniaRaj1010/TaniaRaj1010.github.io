@@ -2,19 +2,3 @@ theme: jekyll-theme-cayman #minimal
 title: TaniaRaj1010 homepage
 description: List of completed and ongoing projects.
 
-sidebar:
-  - title: Getting Started
-    url: /getting-started.html
-  - title: Docs
-    url: /docs.html
-    
-header_pages:
-  - index.md
-  - about.md
-  - contact.md
-
-nav:
-  - Home: index.md
-  - Projects:
-    - "1. project1": "project1.md"
-    - "2. project2": "project2.md"
