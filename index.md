@@ -2,7 +2,6 @@
 layout: default
 title: TaniaRaj1010.github.io
 description: Hello! 
-Nav1 | Nav2 | Nav3 | ...
 ---
 
 ## **MD Projects**
